@@ -9,8 +9,8 @@ export class SceneSetup {
 
   constructor() {
     this.scene = new THREE.Scene();
-    this.scene.background = new THREE.Color(0x1a1a1a);
-    this.scene.fog = new THREE.Fog(0x1a1a1a, 20, 50);
+    this.scene.background = new THREE.Color(0x2a2a2a);
+    this.scene.fog = new THREE.Fog(0x2a2a2a, 30, 70);
 
     this.camera = new THREE.PerspectiveCamera(
       75,

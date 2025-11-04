@@ -37,10 +37,20 @@ export class InfoPanel {
           <strong style="color: #4a90e2;">Features:</strong>
           <ul style="margin: 5px 0; padding-left: 20px;">
             <li>5+ 3D art objects</li>
-            <li>Dynamic lighting system</li>
+            <li>10+ Dynamic lights</li>
             <li>Real-time shadows</li>
+            <li>5 Visual actor types</li>
             <li>Particle effects</li>
+            <li>Signage & markers</li>
             <li>Post-processing bloom</li>
+          </ul>
+        </div>
+        <div style="margin-bottom: 10px;">
+          <strong style="color: #88ccff;">Actor Manager:</strong>
+          <ul style="margin: 5px 0; padding-left: 20px; font-size: 12px;">
+            <li>Spawn multiple actors</li>
+            <li>Control animations</li>
+            <li>Manage placement</li>
           </ul>
         </div>
         <button id="toggle-info" style="
